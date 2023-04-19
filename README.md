@@ -1,4 +1,15 @@
 # eaglecraftRePACK_RU
-list of good versions of eaglecraft i found on internet [BASED ON THIS: https://github.com/PepsiIsGAY/EaglerHacks?ysclid=lgncger3h2708496672 ]
-author, contact me if you want this to be deleted
-# I CAN'T GUARANTEE ITS SAFETY, LAUNCH AT YOUR OWN RISK!!! (my pc hasn't crashed/broken after launching tho, so ig it's kinda safe
+EaglerCraft Clients List
+## EaglerCraft Clients List. Use it to navigate / play EagleCraft for free!
+### added cheats:
+fuschiaX;
+kerosene;
+nebula;
+nit_client;
+odd_future;
+### added PVP(fps boost) clients:
+resent 1.8;
+resent 1.5~ [ONLINE:globe_with_meridians:];
+### added vanilla clients:
+vanilla 1.5.2;
+# I do NOT guarantee it will work well on your device, nor its own security.
