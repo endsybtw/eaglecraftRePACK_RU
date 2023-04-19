@@ -1,5 +1,5 @@
 # eaglecraftRePACK_RU
-EaglerCraft Clients List
+## EaglerCraft Clients List. Use it to navigate / play EagleCraft for free!
 ### added cheats:
 fuschiaX;
 kerosene;
