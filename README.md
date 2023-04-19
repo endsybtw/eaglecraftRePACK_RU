@@ -1,6 +1,16 @@
-# eaglerhack.github.io
-EaglerCraft Hacker Client List
-EaglerCraft 辅助客户端收录页面
+# eaglecraftRePACK_RU
+EaglerCraft Clients List
+V1.0
+added cheats:
+fuschiaX
+kerosene
+nebula
+nit_client
+odd_future
+added PVP(fps boost) clients:
+resent 1.8
+resent 1.5~ [ONLINE]
+added vanilla clients:
+vanilla 1.5.2
 
-此页面收录了近90%的EaglerCraft Hacker Client，我们并不保证它可以很好的在您的设备上工作，也不保证它本身的安全性。
-This page contains nearly 90% of EagleCraft Hacker Client, we do not guarantee it will work well on your device, nor its own security.
+#I do NOT guarantee it will work well on your device, nor its own security.
